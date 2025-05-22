@@ -11,6 +11,6 @@ print ("Hello " + "World!") #Hier einmal dreifach anführung gesetzt und einmal 
 print ('jetzt rechnen wir mit unserem alten X und machen es neu mit einem anderen festen wert') #sagen was abgeht
 print (x)
 y = x - 3
-print (y)
+print (y), print ('Das ist Y als wert')
 x = x + y #Hier neuen wert für X gesetzt. 
 print (x)
